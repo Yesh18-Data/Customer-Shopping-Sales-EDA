@@ -1,4 +1,4 @@
-the following steps and sections of 
+the following steps and sections of Analysis report 
 1. **Importing Libraries**
 2. **Reading the Customer Sales Data from a CSV File**
 3. **Checking and Changing Data Types**
