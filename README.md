@@ -24,7 +24,7 @@ the following steps and sections of Analysis report
 ### Problem Statement
 The analysis is focused on understanding customer shopping behaviors and sales patterns. The goal is to derive insights from the data to inform business strategies, improve customer segmentation, and optimize marketing efforts.
 
-### Key Insights (KIPs)
+### Key Insights (KIs)
 Key insights might include:
 - Popular product categories and their differences by gender.
 - Most common payment methods and their distribution across shopping malls.
